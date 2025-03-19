@@ -1,5 +1,5 @@
-**Hisham Ali Chaudhry
-Software Programming / Data Analysis Candidate******
+<h1>Hisham Ali Chaudhry</h1>
+<p>Software Programming / Data Analysis Candidate</p>
 
 **About Me**
 My name is Hisham Ali Chaudhry, and I am currently a student with a desired career interest in Java Programming, Web Development, and/or Data Analysis.
