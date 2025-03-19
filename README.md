@@ -4,10 +4,6 @@
 <h3>About Me</h3>
 My name is Hisham Ali Chaudhry, and I am currently a student with a desired career interest in Java Programming, Web Development, and/or Data Analysis.
 
-<h3>Contact Information</h3>
-Email: hchaudhry2@my.wctc.edu
-
-Phone: (262) 416-4199
 
 <h3>Summary</h3>
 I have 2+ years of experience with languages such as Java and Python, databases like SQL, a year of experience with markup languages like HTML, and over 10+ years experience with other tools such as Word/Docs, Excel/Sheets, and Powerpoint/Slides.
